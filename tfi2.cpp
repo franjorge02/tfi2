@@ -6,6 +6,9 @@
 #include <strings.h>
 
 main(){
+    printf("Dale boquita");   
+    printf("\nLa12"); 
+
 
 getch();
 }
